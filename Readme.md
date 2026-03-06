@@ -36,7 +36,7 @@
 
 ### 1. Display Settings (including Appearance and UI)
 
-<video src="display-settings.mp4" controls width="100%"></video>
+<video src="https://github.com/nik200503/report/raw/main/display-settings.mp4" controls width="100%"></video>
 
 **Status:** Partial
 
@@ -54,7 +54,7 @@ As for **Appearance and UI** — these are working as intended. Theme, accent co
 
 ### 2. Input Settings
 
-<video src="input-settings.mp4" controls width="100%"></video>
+<video src="https://github.com/nik200503/report/raw/main/input-settings.mp4" controls width="100%"></video>
 
 **Status:** Completed
 
@@ -68,7 +68,7 @@ include $HOME/.config/regolith3/sway/cosmic-settings/generated-config.d/*
 
 ### 3. Power Settings
 
-<video src="power-settings.mp4" controls width="100%"></video>
+<video src="https://github.com/nik200503/report/raw/main/power-settings.mp4" controls width="100%"></video>
 
 **Status:** Partial
 
@@ -78,7 +78,7 @@ Different power modes are working, but the **sleep timer** is not connected prop
 
 ### 4. regolith-wm-config
 
-<video src="regolith-wm-config.mp4" controls width="100%"></video>
+<video src="https://github.com/nik200503/report/raw/main/regolith-wm-config.mp4" controls width="100%"></video>
 
 **Status:** Partial
 

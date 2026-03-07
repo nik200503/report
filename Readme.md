@@ -36,7 +36,6 @@
 
 ### 1. Display Settings (including Appearance and UI)
 
-<video src="https://github.com/nik200503/report/raw/main/display-settings.mp4" controls width="100%"></video>
 
 **Status:** Partial
 
@@ -54,7 +53,6 @@ As for **Appearance and UI** — these are working as intended. Theme, accent co
 
 ### 2. Input Settings
 
-<video src="https://github.com/nik200503/report/raw/main/input-settings.mp4" controls width="100%"></video>
 
 **Status:** Completed
 
@@ -68,7 +66,6 @@ include $HOME/.config/regolith3/sway/cosmic-settings/generated-config.d/*
 
 ### 3. Power Settings
 
-<video src="https://github.com/nik200503/report/raw/main/power-settings.mp4" controls width="100%"></video>
 
 **Status:** Partial
 
@@ -78,7 +75,6 @@ Different power modes are working, but the **sleep timer** is not connected prop
 
 ### 4. regolith-wm-config
 
-<video src="https://github.com/nik200503/report/raw/main/regolith-wm-config.mp4" controls width="100%"></video>
 
 **Status:** Partial
 
@@ -98,6 +94,7 @@ Out of all planned changes, the following were completed and are working correct
 - Use `cosmic-applets`
 
 ---
+[Here you can see recording of above changes](https://drive.google.com/drive/folders/1MLd2YbVoYVbVOEEtwLhbKebVQ5E6Ai5B?usp=drive_link)
 
 ## Way Ahead
 
@@ -140,4 +137,5 @@ The following items from the [GSoC 2025 checklist](https://github.com/sandptel/g
 - [ ] Trawl integration — bridge COSMIC settings with Regolith's configuration management system
 - [ ] Packaging (`.deb` packages for Ubuntu and Debian)
 - [ ] End-to-end testing and beta release
+
 
